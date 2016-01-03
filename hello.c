@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int b;
+int a;
 
 void Wellcome (){
   printf("hello world\n");
